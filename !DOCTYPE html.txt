@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Il Mio Sito</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;600&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header class="hero">
+        <div class="overlay">
+            <h1>Benvenuto nel mio sito!</h1>
+            <p>Un progetto semplice, moderno e gratuito</p>
+            <a href="#chi-siamo" class="btn">Scopri di più</a>
+        </div>
+    </header>
+
+    <nav>
+        <a href="#home">Home</a>
+        <a href="#chi-siamo">Chi siamo</a>
+        <a href="#contatti">Contatti</a>
+    </nav>
+
+    <section id="home">
+        <h2>Home</h2>
+        <p>Questo è un sito web moderno, creato gratuitamente con HTML e CSS, e pubblicato su GitHub Pages.</p>
+    </section>
+
+    <section id="chi-siamo">
+        <h2>Chi siamo</h2>
+        <p>Siamo un piccolo team appassionato di tecnologia e design, pronti a realizzare soluzioni creative e funzionali.</p>
+    </section>
+
+    <section id="contatti">
+        <h2>Contatti</h2>
+        <p>Email: esempio@email.com</p>
+    </section>
+
+    <footer>
+        <p>© 2025 Il Mio Sito - Tutti i diritti riservati</p>
+    </footer>
+</body>
+</html>
